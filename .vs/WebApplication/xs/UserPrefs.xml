@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{ED41CABC-B048-4058-BA87-9A1A94594F3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication/EmptyClass.cs">
+    <Files>
+      <File FileName="WebApplication/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="WebApplication/Controllers/EmptyController.cs" Line="9" Column="6" />
+      <File FileName="WebApplication/Controllers/WeatherForecastController.cs" Line="7" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication" expanded="True">
+            <Node name="WebApplication" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmptyController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
